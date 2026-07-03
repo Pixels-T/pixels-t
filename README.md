@@ -1,6 +1,7 @@
 # Pixels-T
 
 A modular, multi-layer, multi-frame pixel art editor built with Python 3, Tkinter, and sv_ttk.
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/5f32ea5f-a2c2-475d-aece-abdc4173705f" />
 
 ## Setup
 
